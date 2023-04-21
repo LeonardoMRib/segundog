@@ -1,1 +1,13 @@
+button {
+    background: white;
+    color: red;
+}
+
+.nova_letra {
+    font-family:"Time new Roman"
+    font-size = 24px;
+}
+#unico{
+    background: rgb(70, 68, 68);
+}
 
