@@ -1,4 +1,4 @@
-# Revitalização e Reforma do Colégio Doutor Gastão Vidigal
+# Revitalização e Reforma do Colégio
 
 Nome: Arthur de Mattos da Silva;
 Nome: Emanuel Carvalho da Silva Rosário;
